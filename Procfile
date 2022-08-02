@@ -1,0 +1,1 @@
+web: gunicorn netlanks.wsgi --log-file -
